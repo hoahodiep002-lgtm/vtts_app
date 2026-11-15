@@ -1,0 +1,8 @@
+# Chi de dev/test tren PC. Ban build Android lay tu buildozer.spec
+kivy==2.3.0
+kivymd
+pypdf
+python-docx
+charset-normalizer
+pillow
+pytest
