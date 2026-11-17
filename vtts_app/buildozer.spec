@@ -17,7 +17,9 @@ fullscreen = 0
 # --- Android ---
 # CHU Y: kiem tra lai target API toi thieu cua Google Play truoc khi phat hanh.
 android.api = 34
-android.minapi = 24
+android.minapi = 21
+android.ndk = 25b
+android.sdk = 33
 android.archs = arm64-v8a
 android.accept_sdk_license = True
 android.release_artifact = aab
